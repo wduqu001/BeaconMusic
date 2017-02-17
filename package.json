@@ -3,12 +3,12 @@
   "version": "0.0.1",
   "description": "Beacon Music",
   "main": "server.js",
-  "author": "Celso - Mike - William",
+  "author": "Celso - Mike - Willian",
   "dependencies": {
-    "body-parser": "^1.4.3",
-    "express": "^4.13.4",
-    "method-override": "^2.1.3",
-    "mongoose": "^4.4.12",
-    "morgan": "^1.1.1"
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "method-override": "^2.3.7",
+    "mongoose": "^4.8.3",
+    "morgan": "^1.8.1"
   }
-}
+} 
